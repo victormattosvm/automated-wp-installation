@@ -11,7 +11,7 @@
 
 ### Prerequisites
 
-- WP CLI installed
+- WP CLI installed [see it here](https://maheshwaghmare.com/setup-wp-cli-wordpress-command-line-interface-on-windows-operating-system/)
 - If you want to create repository: cURL installed and Github Personal token
 
 ### Running
