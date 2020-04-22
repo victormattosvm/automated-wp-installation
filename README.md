@@ -1,4 +1,4 @@
-# Automated WP Fresh Installation
+# Automated WP Installation
 
 
 ### Prerequisites
