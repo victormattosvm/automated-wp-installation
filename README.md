@@ -1,12 +1,4 @@
-# Automated WP Installation
-
-
-### Prerequisites
-
-- WP CLI installed
-- If you want to create repository: cURL installed and Github Personal token
-
-#### Just run the file and have fun!
+# Automated WP Installation with Windows batch
 
 ### Features
 
@@ -16,3 +8,14 @@
 - Clone and activate base theme from Github repo
 - Create a new repository with all new files
 - Run NPM install and "gulp dev" command
+
+### Prerequisites
+
+- WP CLI installed
+- If you want to create repository: cURL installed and Github Personal token
+
+### Running
+
+- Edit all variables within run.bat
+- Run it and have fun!
+
